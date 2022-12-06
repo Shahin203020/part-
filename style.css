@@ -1,0 +1,26 @@
+.img-section img{
+    max-width: 100%;
+}
+.name-highlight{
+    color: orange;
+}
+.h1{
+    font-size: 35px;
+}
+.card-title2{
+    color: orange;
+}
+.card-title{
+    font-size: 50px;
+    font-weight: 700;
+    color: aqua;
+}
+.container h1{
+    font-size: 50px;
+    font-weight: 700;
+}
+.exprience-section h2{
+    font-size: 50px;
+    font-weight: 700;
+    margin-top: 10px;
+}
